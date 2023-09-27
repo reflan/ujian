@@ -1,0 +1,11 @@
+1. lakukan fork di repo ini 
+   https://github.com/reflan/quis_pw2_npm, dan di simpan di repo masing2
+2. beri nama repo sebagai berikut: quis_pw2_{npm} (contoh: quis_pw2_11312136)
+3. lakukan clone ke komputer masing2, dan kerjakan soal.
+4. jika sudah, commit hasil quis
+
+
+Pengumpulan Hasil UTS
+1.	Copy Link repository dan paste ke notepad
+2.	Beri nama file diatas dengan nama : npm.txt (missal: 11312136.txt)
+3.	Kirim file tersebut ke email: reflan@teknokrat.ac.id dengan subject: [quis-susulan][pw2]npm
