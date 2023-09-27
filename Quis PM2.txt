@@ -1,0 +1,15 @@
+Soal Quis Pemrograman mobile 2
+
+a. Buat tampilan login dengan ketentuan sebagai berikut
+   1. dibagian atas beri logo teknokrat
+   2. disamping logo teknokrat, berikan string sebagai berikut
+   3. inputan username dan password, berikan Border Radius
+   4. Tambahkan text "Lupa password?, klik disini". buat di bawah button login
+   5. Tambahkan text "developed by nama(npm)" di bagian bawah.
+   6. Berikan warna Beri warna screen login anda dengan dominan warna merah, kuning, hijau
+b. Petunjuk pengumpulan sebagai berikut 
+- copy file pubspec.yml, folder lib, dan folder asset (jika ada)
+- paste ke folder baru dengan nama : npm dan ekstrak menjadi rar (npm.rar)
+- kirim file rar tersebut ke 
+  - email : reflan@teknokrat.ac.id
+  - subject : [quis-susulan][pm2] npm
